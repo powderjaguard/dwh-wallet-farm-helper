@@ -25,7 +25,7 @@ Works on Steam. Single-player.
 
 ## 📖 About
 
-Desktop Wallet Heroes is SUPERCAT's overlay idle RPG — your heroes fight at the bottom of your screen while you work, collecting gold and merging stones into legendary weapons [citation:1][citation:2]. This menu gives you the tools that private cheats sell: infinite gold, auto-merge, and full inventory control.
+Desktop Wallet Heroes is SUPERCAT's overlay idle RPG — your heroes fight at the bottom of your screen while you work, collecting gold and merging stones into legendary weapons. This menu gives you the tools that private cheats sell: infinite gold, auto-merge, and full inventory control.
 
 **Internal Menu.** In-game overlay. F2 to open.
 
@@ -162,12 +162,12 @@ Desktop Wallet Heroes is SUPERCAT's overlay idle RPG — your heroes fight at th
 
 | Component | Minimum |
 |-----------|---------|
-| OS | Windows 10/11 (64-bit) [citation:1] |
-| CPU | Intel Core i3-6100 / AMD Ryzen 3 1200 [citation:1] |
-| GPU | NVIDIA GTX 1050 2GB / AMD RX 560 4GB [citation:1] |
-| RAM | 8 GB [citation:1] |
-| Storage | 2 GB [citation:1] |
-| DirectX | DirectX 12 [citation:1] |
+| OS | Windows 10/11 (64-bit) |
+| CPU | Intel Core i3-6100 / AMD Ryzen 3 1200 |
+| GPU | NVIDIA GTX 1050 2GB / AMD RX 560 4GB |
+| RAM | 8 GB |
+| Storage | 2 GB |
+| DirectX | DirectX 12 |
 | .NET | .NET 6.0 |
 | VC++ | Visual C++ 2015–2022 |
 | Rights | Administrator |
@@ -203,7 +203,7 @@ Desktop Wallet Heroes is SUPERCAT's overlay idle RPG — your heroes fight at th
 
 **Q: The .exe doesn't open — what do I do?** — Run as Administrator. Add to antivirus exclusions.
 
-**Q: What is Desktop Wallet Heroes?** — A free overlay idle RPG by SUPERCAT. Heroes fight at the bottom of your screen, you merge stones and collect loot. Released November 4, 2026 [citation:2][citation:9].
+**Q: What is Desktop Wallet Heroes?** — A free overlay idle RPG by SUPERCAT. Heroes fight at the bottom of your screen, you merge stones and collect loot. Released November 4, 2026.
 
 ---
 
